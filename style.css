@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: "swiss";
+	src: url(file:///C|/Users/ratba/projects/site/Swiss721Black.ttf);
+}
+
+.toc {
+	text-align: center;
+	color: #323232;
+	font-size: 12pt;
+	line-height: 20px;
+}
+
+.toc a {
+	color: #6770E7;
+	font-weight: bold;
+	text-decoration-line: none;
+}
+
+h1 {
+	font-family: "swiss";
+	text-align: center;
+	font-size: 30pt;
+    line-height: 12pt;
+}
+
+h2 {
+	font-family: "swiss";
+	text-align: center;
+	font-size: 16pt;
+	line-height: 5pt;
+	color: #323232;
+}
+
+h2 a {
+	color: #6770E7;
+	text-decoration-line: underline; 
+	text-decoration-color: black;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: "swiss";
+	font-size: 16pt;
+	color: #323232;
+	line-height: 10px;
+	margin-bottom: 0px;
+	padding: 0px 155px;
+}
+
+p {
+	font-family: "arial";
+	padding: 0px 175px;
+}
+
+p a {
+	color: #6770E7;
+	text-decoration-line: underline; 
+	text-decoration-color: black;
+	font-weight: bold;
+}
