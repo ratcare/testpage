@@ -2,7 +2,7 @@
 
 @font-face {
 	font-family: "swiss";
-	src: url(file:///C|/Users/ratba/projects/site/Swiss721Black.ttf);
+	src: url("Swiss721Black.ttf");
 }
 
 .toc {
